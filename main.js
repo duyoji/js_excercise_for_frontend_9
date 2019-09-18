@@ -27,8 +27,8 @@
   // ページの読み込みが完了したらクイズ情報を取得する
 
 
-  // questionにテキストをセットする
-  question.innerText = '何かしらの問題'
+  // questionDOMにテキストをセットする
+  questionDOM.innerText = '何かしらの問題'
 
 
   // `fetchQuizData関数`を実装する
