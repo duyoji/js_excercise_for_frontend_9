@@ -25,7 +25,9 @@
 
 
   // ページの読み込みが完了したらクイズ情報を取得する
-
+  window.addEventListener('load', () => {
+    // クイズ情報を取得する
+  });
 
   // questionDOMにテキストをセットする
   questionDOM.innerText = '何かしらの問題'
