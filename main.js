@@ -21,6 +21,7 @@
 
 
   // HTMLのid値がセットされているDOMを取得する
+  const questionDOM = document.getElementById('question');
 
 
   // ページの読み込みが完了したらクイズ情報を取得する
